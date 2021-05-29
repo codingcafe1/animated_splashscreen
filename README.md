@@ -1,6 +1,6 @@
 # Animated Splash Screen App
 
-Flutter Android & iOS Animated Splash Screen App from Coding Cafe
+Flutter Web, Android & iOS Animated Splash Screen App from Coding Cafe
 
 ## Join Other Course Here
 
